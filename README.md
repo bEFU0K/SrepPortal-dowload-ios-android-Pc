@@ -1,6 +1,6 @@
+<div align="center">
 
-
-![Логотип SrepPortal](./logo.png)
+<img src="./logo.png" alt="Логотип SrepPortal" width="90">
 
 # SrepPortal
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-![SrepPortal](./logo.png)
+<img src="./logo.png" alt="SrepPortal" width="48">
 
 **SrepPortal · SrepCodes**
 
